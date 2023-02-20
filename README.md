@@ -5,7 +5,7 @@ A project that I made when I was a 2nd year college student.
 
 # Prerequisites:
 - [Netbeans IDE 15](https://netbeans.apache.org/download/nb15/index.html) (can also try the latest ver)
-- [Xampp](https://www.apachefriends.org/download.html)
+- [Xampp](https://www.apachefriends.org/download.html) (8.1 version under windows section)
 - [MySQLConnector](https://dev.mysql.com/downloads/file/?id=515796) (for database)
 
 # How to use this project:
