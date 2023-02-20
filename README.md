@@ -11,8 +11,8 @@ A project that I made when I was a 2nd year college student.
 # How to use this project:
 1. Open Xampp Control Panel (file name would be "xampp-control")
 2. Under Actions, Start both Apache and MySQL and click the Admin button of MySQL or simply type "localhost/phpmyadmin" in your browser (double quotes not included)
-3. Click New located at the top left
-4. The name of your database must be "wp_db" then click create (double quotes not included)
+3. Click 'New' located at the top left
+4. The name of your database must be "wp_db" then click 'create' (double quotes not included)
 5. Click the database, then select 'Import' located at the top > choose file > select "wp_db.sql" that you downloaded from here > scroll down and import
 6. After that, database side is done, next is netbeans part
 7. Open Netbeans IDE
